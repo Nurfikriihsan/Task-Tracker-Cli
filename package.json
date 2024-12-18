@@ -1,0 +1,16 @@
+{
+  "name": "task-tracker-cli",
+  "version": "1.0.0",
+  "main": "task-cli.js",
+  "bin": {
+    "task-cli": "task-cli.js"
+  },
+  "scripts": {
+    "start": "node task-cli.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["cli", "task-tracker", "nodejs"],
+  "author": "Nurfikri Ihsan",
+  "license": "ISC",
+  "description": "A simple CLI tool to track tasks using Node.js."
+}
