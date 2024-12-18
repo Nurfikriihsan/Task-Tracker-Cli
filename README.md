@@ -1,11 +1,12 @@
-A.) Task Tracker CLI
+## Task Tracker CLI
 
 Aplikasi Command Line Interface (CLI) untuk melacak tugas Anda. Dengan aplikasi ini, Anda dapat menambahkan, memperbarui, menghapus, dan mengelola status tugas yang perlu diselesaikan.
 
 ## Project URL
 [Task Tracker CLI Project](https://github.com/Nurfikriihsan/Task-Tracker-Cli)
 
-B.) Fitur
+
+## Fitur
 
 - Menambahkan Tugas: Menambahkan tugas baru ke dalam daftar.
 - Memperbarui Tugas: Memperbarui deskripsi tugas yang ada.
@@ -13,11 +14,11 @@ B.) Fitur
 - Menandai Status Tugas: Menandai tugas sebagai "Sedang Dikerjakan" atau "Selesai".
 - Menampilkan Tugas: Menampilkan daftar semua tugas atau tugas berdasarkan statusnya.
 
-C.) Persyaratan
+## Persyaratan
 
 - Node.js: Pastikan Node.js terinstal di komputer Anda. Anda dapat mengunduhnya di [Node.js](https://nodejs.org/).
 
-D.) Instalasi
+## Instalasi
 
 1. Clone atau Unduh Proyek
    - git clone [https://github.com/Nurfikriihsan/Task-Tracker-Cli.git](https://github.com/Nurfikriihsan/Task-Tracker-Cli.git)
@@ -27,7 +28,7 @@ D.) Instalasi
    - Install dependensi (walaupun proyek ini tidak memerlukan dependensi eksternal):
      npm install
 
-E.) Penggunaan
+## Penggunaan
 
 Setelah proyek terinstal, Anda dapat menjalankan berbagai perintah CLI menggunakan `node task-cli.js` di terminal.
 
@@ -54,7 +55,7 @@ node task-cli.js list todo
 node task-cli.js list in-progress
 node task-cli.js list done
 
-Kontak :
+## Kontak 
 
 Jika Anda memiliki pertanyaan atau umpan balik, hubungi saya melalui:
 - GitHub: [https://github.com/Nurfikriihsan](https://github.com/Nurfikriihsan)
