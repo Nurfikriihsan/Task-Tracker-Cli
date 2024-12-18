@@ -2,7 +2,7 @@
 
 Aplikasi Command Line Interface (CLI) untuk melacak tugas Anda. Dengan aplikasi ini, Anda dapat menambahkan, memperbarui, menghapus, dan mengelola status tugas yang perlu diselesaikan.
 
-[Project URL](https://github.com/Nurfikriihsan/Task-Tracker-Cli)
+[project URL](https://github.com/Nurfikriihsan/Task-Tracker-Cli)
 
 
 ## Fitur
@@ -20,7 +20,7 @@ Aplikasi Command Line Interface (CLI) untuk melacak tugas Anda. Dengan aplikasi 
 ## Instalasi
 
 1. Clone atau Unduh Proyek
-   - git clone [https://github.com/Nurfikriihsan/Task-Tracker-Cli.git](https://github.com/Nurfikriihsan/Task-Tracker-Cli.git)
+   - git clone [https://github.com/Nurfikriihsan/Task-Tracker-Cli.git](https://github.com/Nurfikriihsan/Task-Tracker-Cli)
    - cd task-tracker-cli
 
 2. Inisialisasi Proyek
