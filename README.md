@@ -20,7 +20,7 @@ Aplikasi Command Line Interface (CLI) untuk melacak tugas Anda. Dengan aplikasi 
 ## Instalasi
 
 1. Clone atau Unduh Proyek
-   - git clone [https://github.com/Nurfikriihsan/Task-Tracker-Cli.git](https://github.com/Nurfikriihsan/Task-Tracker-Cli)
+   - git clone [https://github.com/Nurfikriihsan/Task-Tracker-Cli](https://github.com/Nurfikriihsan/Task-Tracker-Cli)
    - cd task-tracker-cli
 
 2. Inisialisasi Proyek
