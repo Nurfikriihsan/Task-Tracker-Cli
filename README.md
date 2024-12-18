@@ -1,8 +1,8 @@
-Task Tracker CLI
+A.) Task Tracker CLI
 
 Aplikasi Command Line Interface (CLI) untuk melacak tugas Anda. Dengan aplikasi ini, Anda dapat menambahkan, memperbarui, menghapus, dan mengelola status tugas yang perlu diselesaikan.
 
-Fitur
+B.) Fitur
 
 - Menambahkan Tugas: Menambahkan tugas baru ke dalam daftar.
 - Memperbarui Tugas: Memperbarui deskripsi tugas yang ada.
@@ -10,45 +10,43 @@ Fitur
 - Menandai Status Tugas: Menandai tugas sebagai "Sedang Dikerjakan" atau "Selesai".
 - Menampilkan Tugas: Menampilkan daftar semua tugas atau tugas berdasarkan statusnya.
 
-Persyaratan
+C.) Persyaratan
 
 - Node.js: Pastikan Node.js terinstal di komputer Anda. Anda dapat mengunduhnya di [Node.js](https://nodejs.org/).
 
-Instalasi
+D.) Instalasi
 
 1. Clone atau Unduh Proyek
-   - Clone repositori ini ke direktori lokal Anda:
-     git clone [https://github.com/Nurfikriihsan/Task-Tracker-Cli.git](https://github.com/Nurfikriihsan/Task-Tracker-Cli.git)
-     cd task-tracker-cli
+   - git clone [https://github.com/Nurfikriihsan/Task-Tracker-Cli.git](https://github.com/Nurfikriihsan/Task-Tracker-Cli.git)
+   - cd task-tracker-cli
 
 2. Inisialisasi Proyek
    - Install dependensi (walaupun proyek ini tidak memerlukan dependensi eksternal):
      npm install
 
-Penggunaan
+E.) Penggunaan
 
 Setelah proyek terinstal, Anda dapat menjalankan berbagai perintah CLI menggunakan `node task-cli.js` di terminal.
 
-Menambahkan Tugas :
+1.) Menambahkan Tugas :
 node task-cli.js add "Buy groceries"  
 
-Memperbarui Tugas :
+2.) Memperbarui Tugas :
 node task-cli.js update 1 "Buy groceries and cook dinner"
 
-Menghapus Tugas :
+3.) Menghapus Tugas :
 node task-cli.js delete 1
 
-Menandai Tugas Sebagai Sedang Dikerjakan :
+4.) Menandai Tugas Sebagai Sedang Dikerjakan :
 node task-cli.js mark-in-progress 1
 
-Menandai Tugas Sebagai Selesai :
+5.) Menandai Tugas Sebagai Selesai :
 node task-cli.js mark-done 2
 
-Menampilkan Semua Tugas :
+6.) Menampilkan Semua Tugas :
 node task-cli.js list
 
-
-Menampilkan Tugas Berdasarkan Status :
+7.) Menampilkan Tugas Berdasarkan Status :
 node task-cli.js list todo
 node task-cli.js list in-progress
 node task-cli.js list done
