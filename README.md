@@ -2,6 +2,10 @@ A.) Task Tracker CLI
 
 Aplikasi Command Line Interface (CLI) untuk melacak tugas Anda. Dengan aplikasi ini, Anda dapat menambahkan, memperbarui, menghapus, dan mengelola status tugas yang perlu diselesaikan.
 
+- Project URL
+[Task Tracker CLI Project](https://github.com/Nurfikriihsan/Task-Tracker-Cli)
+
+
 B.) Fitur
 
 - Menambahkan Tugas: Menambahkan tugas baru ke dalam daftar.
